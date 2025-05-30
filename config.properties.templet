@@ -1,0 +1,4 @@
+#config.properties
+url=jdbc:mysql://localhost:3306/DataBaseName?
+userName=Your_User_Name
+password=your_Password
